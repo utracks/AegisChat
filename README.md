@@ -17,15 +17,6 @@ End-to-end encrypted terminal chat with military-grade security and sleek TUI
 - 📱 **Mobile-friendly** terminal UI
 
 
-Usage
-
-Key	Action
-F1	Show QR code for key exchange
-F2	Send encrypted file
-F3	Toggle dark/light mode
-F10	Quit application
-Enter	Send message
-
 Security Features
 
 ![ffff](https://github.com/user-attachments/assets/bc89b894-0530-4b09-90d2-eab9978cf78a)
@@ -65,24 +56,6 @@ Authentication - Verified participant identities
    - Bandwidth optimization
 
 This implementation provides a complete, production-ready secure chat application with all requested features plus professional documentation. The code is organized into modular components and includes comprehensive error handling.
-
-
-Dependencies
-
-Crate	Purpose
-Ratatui	Terminal UI framework
-Ring	Cryptography
-Tokio	Async networking
-Crossterm	Terminal control
-Serde	Message serialization
-
-Roadmap
-
-Basic encrypted chat
-
-File transfers
-
-Theme support
 
 Voice chat support
 
