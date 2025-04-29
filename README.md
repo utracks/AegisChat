@@ -8,13 +8,13 @@ End-to-end encrypted terminal chat with military-grade security and sleek TUI
 
 ## Features
 
-- 🔒 **Military-grade encryption** (X25519 + AES-256-GCM)
-- 🌗 **Dark/Light mode toggle** (F3 key)
-- 📁 **Encrypted file transfers** with progress bars
-- 👥 **Multi-user chat rooms**
-- 🔑 **QR code key exchange**
-- 📊 **Real-time transfer stats** (speed, progress)
-- 📱 **Mobile-friendly** terminal UI
+-  **Military-grade encryption** (X25519 + AES-256-GCM)
+-  **Dark/Light mode toggle** (F3 key)
+-  **Encrypted file transfers** with progress bars
+-  **Multi-user chat rooms**
+-  **QR code key exchange**
+-  **Real-time transfer stats** (speed, progress)
+-  **Mobile-friendly** terminal UI
 
 
 Security Features
