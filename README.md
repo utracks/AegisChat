@@ -1,10 +1,6 @@
 # AegisChat
 End to end encrypted terminal chat with military grade security and sleek TUI
 
-# AegisChat 
-
-
-**End to end encrypted terminal chat with multi user support, file transfers, and theme options**
 
 ## Features
 
